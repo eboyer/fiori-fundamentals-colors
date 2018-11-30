@@ -103,5 +103,5 @@ props:
     value: '#354A5F'
     comment: 'Shell 1 - #354A5F'
   shell_2:
-    value: '#ff0000'
-    comment: 'Shell 1 - #D1E8FF'
+    value: '#D1E8FF'
+    comment: 'Shell 2 - #D1E8FF'
