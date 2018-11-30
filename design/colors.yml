@@ -1,0 +1,73 @@
+# design/props.yml
+global:
+  category: 'web'
+  type: 'color'
+props:
+  action_1:
+    value: '#0A6ED1'
+  action_2:
+    value: '#FFFFFF'
+  text_1:
+    value: '#32363A'
+  text_2:
+    value: '#515559'
+  text_3:
+    value: '#6a6d70'
+  text_4:
+    value: '#74777A'
+  text_5:
+    value: '#FFFFFF'
+  background_1:
+    value: '#EDEFF0'
+  background_2:
+    value: '#FFFFFF'
+  neutral_1:
+    value: '#FAFAFA'
+  neutral_2:
+    value: '#EEEEEF'
+  neutral_3:
+    value: '#D9D9D9'
+  neutral_4:
+    value: '#89919A'
+  status_1:
+    value: '#107F3E'
+  status_2:
+    value: '#E9730C'
+  status_3:
+    value: '#BB0000'
+  status_4:
+    value: '#6D7678'
+  accent_1:
+    value: '#E38B16'
+  accent_2:
+    value: '#DC7474'
+  accent_3:
+    value: '#DB1F77'
+  accent_4:
+    value: '#C0399F'
+  accent_5:
+    value: '#6367DE'
+  accent_6:
+    value: '#5899DA'
+  accent_7:
+    value: '#13A4B4'
+  accent_8:
+    value: '#7CA10C'
+  accent_9:
+    value: '#955ECF'
+  accent_10:
+    value: '#6C8893'
+  accent_11:
+    value: '#D17F15'
+  accent_12:
+    value: '#D04343'
+  accent_13:
+    value: '#2B78C5'
+  accent_14:
+    value: '#0F828F'
+  accent_15:
+    value: '#647887'
+  shell_1:
+    value: '#354A5F'
+  shell_2:
+    value: '#D1E8FF'
